@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maierhofert.github.io/maierhofert.github.io//sitemap.xml
+Sitemap: https://maierhofert.github.io/sitemap.xml
