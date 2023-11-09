@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.  -->
 
 Wclome! This website is still under construction, so be wary. 
-My name is Thomas Maierhofer, I'm a lecturer in the [Department of Statistics & Data Science]{http://statistics.ucla.edu/} at the University of California, Los Angeles. My office is on the 8th floor of the [Math Sciences Building]{https://www.google.com/maps/place/Mathematical+Sciences+Building/@34.0700968,-118.4432203,18z/data=!4m5!3m4!1s0x0:0x63be8be1f6558fd5!8m2!3d34.0696014!4d-118.4428746?shorturl=1} MS 8935. 
+My name is Thomas Maierhofer, I'm a lecturer in the [Department of Statistics & Data Science](http://statistics.ucla.edu/) at the University of California, Los Angeles. My office is on the 8th floor of the [Math Sciences Building](https://www.google.com/maps/place/Mathematical+Sciences+Building/@34.0700968,-118.4432203,18z/data=!4m5!3m4!1s0x0:0x63be8be1f6558fd5!8m2!3d34.0696014!4d-118.4428746?shorturl=1) MS 8935. 
 My research focuses on applied statistics, in particular in the fields of climate science, the life sciences, and education.
 <!-- I have received my B.Sc. and M.Sc. in Statistics from the University of Munich (Germany) and my Ph.D. from UCLA.  -->
 
