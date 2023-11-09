@@ -27,17 +27,28 @@
     }
   ],
   "_volunteer": [],
-  "_education": [
+  "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Los Angeles",
+      "area": "Statistics & Data Science",
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Thesis: Antarctic Sea Ice Reconstruction"
+      ]
+    },
+    {
+      "institution": "University of Munich, Germany",
+      "area": "Statistics",
+      "studyType": "BSc & MSc",
+      "startDate": "2012-10",
+      "endDate": "2017-09",
+      "score": "",
+      "courses": [
+        "BSc Thesis: Estimation of Entropies",
+        "MSc Thesis: Classification of Functional Data"
       ]
     }
   ],
