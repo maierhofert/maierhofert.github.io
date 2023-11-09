@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Thomas J. Maierhofer",
-    "label": "Statistics & Data Science Lecturer",
+    "position": "Statistics & Data Science Lecturer",
     "image": "",
     "email": "maierhofer at stat.ucla.edu",
     "phone": "",
-    "url": "http://statistics.ucla.edu/",
+    "url": "http://statistics.ucla.edu/index.php/people1/all-faculty/7809-2/?smid=9186",
     "summary": "",
     "location": {
       "address": "Math Sciences Bld. MS 8935",
@@ -58,8 +58,8 @@
       "endDate": "2017-09",
       "score": "",
       "courses": [
-        "BSc Thesis: Estimation of Entropies",
-        "MSc Thesis: Classification of Functional Data"
+        "MSc Thesis: Classification of Functional Data",
+        "BSc Thesis: Estimation of Entropies"
       ]
     }
   ],
