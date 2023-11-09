@@ -4,9 +4,9 @@
     "position": "Lecturer, UCLA Department of Statistics & Data Science",
     "image": "",
     "email": "maierhofer@stat.ucla.edu",
-    "_phone": "(912) 123-4567",
+    // "phone": "(912) 123-4567",
     "url": "https://maierhofert.github.io/",
-    "_summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "Math Sciences Building MS 8935",
       "postalCode": "CA 90095-1554",
@@ -14,13 +14,13 @@
       "countryCode": "US",
       "region": "CA"
     },
-    "_profiles": [
-      {
-        "network": "Github",
-        "username": "maierhofert",
-        "url": "https://github.com/maierhofert/"
-      }
-    ]
+    // "profiles": [
+    //   {
+    //     "network": "Github",
+    //     "username": "maierhofert",
+    //     "url": "https://github.com/maierhofert/"
+    //   }
+    // ]
   },
   "_work": [
     {
