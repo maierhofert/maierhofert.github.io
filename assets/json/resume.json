@@ -13,6 +13,14 @@
       "region": "CA"
     },
   },
+  "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
   "work": [
     {
       "name": "Department of Statistics & Data Science",
@@ -20,9 +28,9 @@
       "url": "http://statistics.ucla.edu/",
       "startDate": "2018-09",
       "endDate": "2023-06",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "STATS 10: Introduction to Statistical Reasoning"
       ]
     }
   ],
@@ -64,7 +72,16 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [], "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
   "interests": [],
   "references": [],
   "projects": []
