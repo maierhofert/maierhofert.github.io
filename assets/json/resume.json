@@ -13,13 +13,13 @@
       "region": "CA"
     },
   },
-  "_work": [
+  "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Department of Statistics & Data Science",
+      "position": "Lecturer",
+      "url": "http://statistics.ucla.edu/",
+      "startDate": "2018-09",
+      "endDate": "2023-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
         "Relativity"
@@ -31,9 +31,10 @@
     {
       "institution": "University of California, Los Angeles",
       "area": "Statistics & Data Science",
+      "url": "http://statistics.ucla.edu/",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2018-09",
+      "endDate": "2023-06",
       "score": "",
       "courses": [
         "Thesis: Antarctic Sea Ice Reconstruction"
@@ -42,6 +43,7 @@
     {
       "institution": "University of Munich, Germany",
       "area": "Statistics",
+      "url": "https://www.en.statistik.uni-muenchen.de/index.html",
       "studyType": "BSc & MSc",
       "startDate": "2012-10",
       "endDate": "2017-09",
