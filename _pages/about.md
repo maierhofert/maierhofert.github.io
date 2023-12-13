@@ -25,7 +25,7 @@ My name is Thomas Maierhofer, I'm a lecturer in the [Department of Statistics & 
 My research focuses on applied statistics, in particular in the fields of climate science, the life sciences, and education.
 
 I am happy to write letters of recommendation, please follow the [guidelines](https://smileschen.com/lor.html) laid out by my colleague Miles Chen. 
-Please send me an email if you are interested in working with me. 
+Please send me an email at maierhofer at stat.ucla.edu if you are interested in working with me. 
 <!-- I am happy to supervise undergraduate research as well as MSc and MASDS students in Statistics & Data Science. Please find  a list of currently open projects here, feel free to talk to me about research even if you cannot find any research ideas on this list that you like. -->
 
 <!-- I have received my B.Sc. and M.Sc. in Statistics from the University of Munich (Germany) and my Ph.D. from UCLA.  -->
