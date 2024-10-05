@@ -5,6 +5,8 @@ title: Letters Of Rec.
 description: 
 nav: true
 nav_order: 6
+hide:
+  - title
 ---
 
 # Guidelines for Requesting a Letter of Recommendation
