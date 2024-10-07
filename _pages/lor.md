@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /lor/
-title: Letters Of Rec.
+title: letters of rec.
 description: 
 nav: true
 nav_order: 6
