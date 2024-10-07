@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching at UCLA
+title: teaching at UCLA
 description: 
 nav: true
 nav_order: 5
