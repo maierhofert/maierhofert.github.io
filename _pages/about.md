@@ -22,10 +22,13 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! 
 My name is Thomas Maierhofer, I'm a lecturer in the [Department of Statistics & Data Science](http://statistics.ucla.edu/) at the University of California, Los Angeles. Here is my [faculty profile](http://statistics.ucla.edu/index.php/people1/all-faculty/7809-2/?smid=9186). My office is on the 9th floor of the [Boelter Hall](https://maps.app.goo.gl/qEzjx8dhEmmenH736) BH 9406. 
-My research focuses on applied statistics, in particular in the fields of climate science, the life sciences, and education. I am excited about the use of Large Language Models and how they can be used to improve undergraduate education. I am currently devloping ALISSTAIR (Artificial Language Intelligence System for Statistical Teaching Aid and Individualized Response), you can try it out [here](https://chatgpt.com/g/g-QfDmRy9AB-alisstair-stats-10). 
+My research focuses on applied statistics, in particular in the fields of climate science, the life sciences, and education. I am excited about the use of Large Language Models and how they can be used to improve undergraduate education. 
+
+I am currently devloping ALISSTAIR (Artificial Language Intelligence System for Statistical Teaching Aid and Individualized Response), you can try it out [here](https://chatgpt.com/g/g-QfDmRy9AB-alisstair-stats-10). Say hi and ask it how to compute a correlation coefficient and/or a linear regression. You'll be amazed how much more useful it's answer is in comparison to vanialla-chatGPT or Wikipedia.
 
 I am happy to write letters of recommendation, please follow the [guidelines](https://maierhofert.github.io/lor/). 
-Please send me an email at maierhofer at stat.ucla.edu if you are interested in working with me. 
+
+<!-- Feel free to send me an email at maierhofer at stat.ucla.edu if you are interested in working with me. -->
 <!-- I am happy to supervise undergraduate research as well as MSc and MASDS students in Statistics & Data Science. Please find  a list of currently open projects here, feel free to talk to me about research even if you cannot find any research ideas on this list that you like. -->
 
 <!-- I have received my B.Sc. and M.Sc. in Statistics from the University of Munich (Germany) and my Ph.D. from UCLA.  -->
