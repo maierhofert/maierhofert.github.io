@@ -12,7 +12,7 @@ Taught in Summer 2019, Winter and Fall 2023, Winter and Spring 2024.
 Lecture, three hours; discussion, one hour; computer laboratory, two hours. Preparation: three years of high school mathematics. Not open for credit to students with credit for course 12, 13, or 15. Introduction to statistical thinking and understanding, including strengths and limitations of basic experimental designs, graphical and numerical summaries of data, inference, regression as descriptive tool. P/NP or letter grading.
 
 ## STATS 20: Introduction to Statistical Programming with R
-Taught in Fall 2024.
+Taught in Fall 2024, Winter and Spring 2025.
 Lecture, three hours; discussion, one hour. Enforced requisite: course 10, 12, or 13. Designed to prepare students for upper-division work in statistics. Introduction to use of R, including data management, simple programming, and statistical graphics in R. P/NP or letter grading.
 
 ## STATS 102A: Introduction to Computational Statistics with R
