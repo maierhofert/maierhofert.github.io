@@ -11,3 +11,5 @@ nav_order: 7
 
 This is the UCLA Stats Calculator that I use in my STATS 10 - Introduction to Statistical Reasoning Class.
 
+
+
