@@ -15,6 +15,10 @@ Lecture, three hours; discussion, one hour; computer laboratory, two hours. Prep
 Taught in Fall 2024, Winter and Spring 2025.
 Lecture, three hours; discussion, one hour. Enforced requisite: course 10, 12, or 13. Designed to prepare students for upper-division work in statistics. Introduction to use of R, including data management, simple programming, and statistical graphics in R. P/NP or letter grading.
 
+## STATS 101C: Introduction to Statistical Models and Data Mining
+Taught in Fall 2025.
+Lecture, three hours; discussion, one hour. Recommended: course 101B. Designed for juniors/seniors. Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence. P/NP or letter grading.
+
 ## STATS 102A: Introduction to Computational Statistics with R
 Taught in Summer 2024.
 Lecture, three hours; discussion, one hour. Requisites: course 20, Mathematics 33A, and one course from course 10, 12, 13, Economics 11, 41, or Psychology 100A, or score of 4 or higher on Advanced Placement Statistics Examination. Introduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping. Covers intermediate to advanced programming with R. P/NP or letter grading.
@@ -22,4 +26,13 @@ Lecture, three hours; discussion, one hour. Requisites: course 20, Mathematics 3
 ## M 148: Introduction to Data Science
 Taught in Winter 2024.
 Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: one course from 131A, Civil and Environmental Engineering 110, Mathematics 170A, Mathematics 170E, or Statistics 100A, and Computer Science 31 or Program in Computing 10A, and 10B. How to analyze data arising in real world so as to understand corresponding phenomenon. Covers topics in machine learning, data analytics, and statistical modeling classically employed for prediction. Comprehensive, hands-on overview of data science domain by blending theoretical and practical instruction. Data science lifecycle: data selection and cleaning, feature engineering, model selection, and prediction methodologies. Letter grading.
+
+## STATS 195: Community or Corporate Internships in Statistics
+Various quarters.
+Tutorial, four hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.
+
+## STATS 199: Directed Research in Statistics
+Various quarters, 20+ students.
+Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+
 
